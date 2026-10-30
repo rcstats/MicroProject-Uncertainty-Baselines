@@ -1,0 +1,7 @@
+# Tested with Python 3.9 on macOS arm64 (Apple Silicon), CPU only.
+tensorflow==2.15.1
+keras==2.15.0
+numpy==1.26.4
+scikit-learn==1.6.1
+matplotlib==3.9.4
+ipykernel==6.31.0
